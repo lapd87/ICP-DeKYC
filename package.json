@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "name": "icp-dekyc",
+  "description": "decentralized KYC verification service for ICP which makes the onboarding process parallel to the KYC verification routine",
+  "author": "Deso",
+  "license": "GNU GPLv3",
+  "scripts": {},
+  "dependencies": {
+    "@dfinity/agent": "0.15.6",
+    "@dfinity/candid": "0.15.6",
+    "azle": "0.16.2",
+    "uuid": "9.0.1"
+  },
+  "devDependencies": {
+    "@types/uuid": "9.0.7"
+  },
+  "engines": {
+    "node": "18"
+  }
+}
